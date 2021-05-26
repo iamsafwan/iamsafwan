@@ -1,7 +1,7 @@
 ### Hi there,
 
 - 🔭 I’m an IoT Engineer, recently graduated from the Queen Mary University of London.
-- 🌱 You can always find me behind a computer, learning about something.
+- 🌱 You can always find me behind computer coding or learning about recent technology.
      At the moment, I am learning about Microsoft Azure, Github, and Exercising my skills in Full-Stack IoT. 
 - 👯 I’m involved in a lot of projects and technologies. I am currently looking to collaborate on open source projects.
 - 💬 Ask me about anything on Twitter: <a href="https://mobile.twitter.com/SafwanKhan18">@SafwanKhan18</a>
