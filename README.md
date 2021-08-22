@@ -4,8 +4,8 @@
 - 🌱 You can always find me behind computer coding or learning about recent technology.
       At the moment, I am learning about Microsoft Azure, Github, and Exercising my skills in Full-Stack IoT. 
       and working on:
-     - [Project-Alpha](https://github.com/iamsafwan/project-alpha), Project-Alpha, is a UWP based password manager.
-     - [Project-Dashboard](https://github.com/iamsafwan/project-dashboard), Project-Dashboard, is a REST API based platform to retrieve interests from external      services and serve over HTML.
+     - [Project-Alpha](https://github.com/iamsafwan/project-alpha), is a UWP based password manager.
+     - [Project-Dashboard](https://github.com/iamsafwan/project-dashboard), is a REST API based platform to retrieve interests from external services and serve over HTML.
      
 - 👯 I’m involved in a lot of projects and technologies. I am currently looking to collaborate on open source projects.
 - 💬 Ask me about anything on Twitter: <a href="https://mobile.twitter.com/SafwanKhan18">@SafwanKhan18</a>
