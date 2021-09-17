@@ -6,6 +6,7 @@
       and working on:
      - [Project-Alpha](https://github.com/iamsafwan/project-alpha), is a UWP based password manager.
      - [Project-Dashboard](https://github.com/iamsafwan/project-dashboard), is a REST API based platform to retrieve interests from external services and serve over HTML.
+     - [Project-SPMS](https://github.com/iamsafwan/project-spms), is a PHP based portal to use enrolled student for corporate placements.
      
 - 💬 Ask me about anything on Twitter: <a href="https://mobile.twitter.com/SafwanKhan18">@SafwanKhan18</a>
 - 📫 You can reach me at my [Personal email](mailto:safwanzk@outlook.com?subject=From%20Github%20Profile&body=Hi%20Safwan!%0D%0A%0D%0AI%20saw%20your%20GitHub%20account%20and%20wanted%20to%20reach%20to%20you%20about) 
